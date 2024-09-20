@@ -8,6 +8,7 @@ import hello.hello_spring.repository.MemoryMemberRepository;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+import org.springframework.stereotype.Service;
 
 class MemberServiceTest {
 
